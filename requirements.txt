@@ -1,0 +1,9 @@
+faiss-cpu
+langchain-community
+unstructured
+pillow
+requests
+langchain
+langfuse==2.44.1
+openai
+scikit-learn
